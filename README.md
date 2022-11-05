@@ -1,6 +1,4 @@
-# It's projec2
-## python learning project
+# IT's PROJECT2
+## TEST
 
-Learning python variable
-
-learning python condiction
+gg'
