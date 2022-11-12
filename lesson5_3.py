@@ -5,10 +5,7 @@
 這是一個猜數字遊戲
 是1到100的範圍
 
-
 '''
-
-
 
 import random
 min = 1
@@ -39,3 +36,4 @@ if __name__ == "__main__":
             print("超出範圍")
 
     print("遊戲結束")
+print(keyin)
